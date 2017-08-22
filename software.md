@@ -6,7 +6,7 @@
 
 В качестве среды разработки можно использовать одну из следующих IDE
 
-* Visual Studio Communuty 2015 - Желательно
+* Visual Studio Communuty 2015 - **Желательно**
 	https://www.microsoft.com/ru-ru/SoftMicrosoft/vs2015Community.aspx
 * Xamarin Studio
 	https://www.xamarin.com/download
